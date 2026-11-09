@@ -1,0 +1,6 @@
+{
+  "name": "Invest in Santa Marta Energy",
+  "description": "Santa Marta, Colombia: a service hub for the Caribbean offshore energy industry. Agenda de Energía y Competitividad de Santa Marta para el Magdalena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
